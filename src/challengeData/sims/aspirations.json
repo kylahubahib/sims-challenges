@@ -1,0 +1,129 @@
+[
+    {
+        "apiration": "Animal",
+        "subcategories": [
+            "Friend of the Animals"
+        ]
+    },
+    {
+        "apiration": "Atheletic",
+        "subcategories": [
+            "Bodybuilder",
+            "Exterme Sports Enthusiast",
+            "Championship Rider"
+        ]
+    }, 
+    {
+        "apiration": "Creativity",
+        "subcategories": [
+            "Painter Extraordinaire",
+            "Musical Genius",
+            "Bestselling Author",
+            "Master Actor/Master Actress",
+            "Master Maker",
+            "Lord/Lady of the Knits"
+        ]
+    },
+    {
+        "apiration": "Deviance",
+        "subcategories": [
+            "Public Enemy",
+            "Chief of Mischief",
+            "Villainous Valentine",
+            "Seeker of Secrets",
+            "Sticky Fingers",
+            "Master of Grudges",
+            "Social Puppeteer"
+        ]
+    },
+    {
+        "apiration": "Fairy",
+        "subcategories": [
+            "Fairy Stories",
+            "Discordant Fairy",
+            "Harmonious Fairy"
+        ]
+    },
+    {
+        "apiration": "Family",
+        "subcategories": [
+            "Successful Lineage",
+            "Big Happy Family",
+            "Vampire Family",
+            "Super Parent"
+        ]
+    },
+    {
+        "apiration": "Food",
+        "subcategories": [
+            "Master Chef",
+            "Master Mixologist",
+            "Expert Nectar Maker",
+            "Appliance Wiz"
+
+        ]
+    },
+    {
+        "apiration": "Fortune",
+        "subcategories": [
+            "Fabulously Wealthy",
+            "Mansion Baron",
+            "Market Magnate",
+            "Five-star Property Owner"
+
+        ]
+    },
+    {
+        "apiration": "Knowledge",
+        "subcategories": [
+            "Renaissance Sim",
+            "Nerd Brain",
+            "Computer Whiz",
+            "Master Vampire",
+            "Archaeology Scholar",
+            "Spellcraft & Sorcery",
+            "Academic",
+            "Ghost Historian",
+            "Master Mentor",
+            "Elixir Enthusiast"
+        ]
+    },
+    {
+        "apiration": "Location",
+        "subcategories": [
+            "City Native",
+            "StrangerVille Mystery",
+            "Beach Life",
+            "Mt. Komorebi Sightseer",
+            "Perfectly Pristine",
+            "Fabulously Filthy",
+            "Fount of Tomarani Knowledge"
+        ]
+    },
+    {
+        "apiration": "Nature",
+        "subcategories": [
+            "Freelance Botanist"
+        ]
+    },
+    {
+        "apiration": "Popularity",
+        "subcategories": [
+            "Party Animal"
+        ]
+    },
+    {
+        "apiration": "Romance",
+        "subcategories": [
+            "Serial Romantic"
+        ]
+    },
+    {
+        "apiration": "Wellness",
+        "subcategories": [
+            "Bodybuilder"
+        ]
+    }
+  
+
+]
